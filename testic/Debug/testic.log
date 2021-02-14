@@ -1,0 +1,4 @@
+﻿  testic.cpp
+C:\Users\Mpale\source\repos\testic\testic\testic.cpp(29,12): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\Mpale\source\repos\testic\testic\testic.cpp(104): warning C4715: 'getDaysInMonth': not all control paths return a value
+  testic.vcxproj -> C:\Users\Mpale\source\repos\testic\Debug\testic.exe
